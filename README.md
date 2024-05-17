@@ -1,0 +1,1 @@
+A "Shopping List" repository is a simple and practical example to help beginners become familiar with Git and GitHub. This project  involves creating, managing, and sharing a list of items you need to buy
